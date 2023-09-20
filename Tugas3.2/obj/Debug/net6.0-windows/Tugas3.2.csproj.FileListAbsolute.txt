@@ -1,0 +1,34 @@
+D:\code\Kuliah\Tugas3.2\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.exe
+D:\code\Kuliah\Tugas3.2\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.deps.json
+D:\code\Kuliah\Tugas3.2\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.runtimeconfig.json
+D:\code\Kuliah\Tugas3.2\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.dll
+D:\code\Kuliah\Tugas3.2\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.pdb
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.csproj.AssemblyReference.cache
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3._2.Form1.resources
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.csproj.GenerateResource.cache
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.AssemblyInfoInputs.cache
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.AssemblyInfo.cs
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.csproj.CoreCompileInputs.cache
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.dll
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\refint\Tugas3.2.dll
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.pdb
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.genruntimeconfig.cache
+D:\code\Kuliah\Tugas3.2\Tugas3.2\obj\Debug\net6.0-windows\ref\Tugas3.2.dll
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.exe
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.deps.json
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.runtimeconfig.json
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.dll
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\bin\Debug\net6.0-windows\Tugas3.2.pdb
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.csproj.AssemblyReference.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3._2.Form1.resources
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.csproj.GenerateResource.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.AssemblyInfoInputs.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.AssemblyInfo.cs
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.csproj.CoreCompileInputs.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.dll
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\refint\Tugas3.2.dll
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.pdb
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\Tugas3.2.genruntimeconfig.cache
+D:\SEMESTER 3\Pemrograman Lanjut\Minggu3\Tugas_3.2-main\Tugas_3.2-main\Tugas3.2\obj\Debug\net6.0-windows\ref\Tugas3.2.dll
